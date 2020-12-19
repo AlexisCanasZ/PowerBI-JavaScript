@@ -1,0 +1,12 @@
+{
+    "name": "alexiscanasz/powerbi-javascript",
+    "description": "powerbi javascript for composer",
+    "authors": [
+        {
+            "name": "acanas",
+            "email": "acanas@mangus.org"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
